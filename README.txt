@@ -1,12 +1,61 @@
-Terminal Justice: The Purrfect Crime (Beginner Edition)
+🕵️‍♀️ Terminal Justice: RIP Joel
+A beginner Linux adventure for detectives-in-training.
 
-Start:
-  cd ~/joel_murder_mystery_beginner/homes/detective
+🎯 YOUR MISSION
+A mysterious “accident” occurred in the EEB lab. Your task is to use your terminal skills to explore folders,
+read files, uncover clues, and find out what really happened.
 
-Learn:
-  ls, cd, cd .., cd ~, cat, pwd, echo, bash
+You’ll move through four folders:
+1. crime_scene – where it all began
+2. suspects_locked – where secrets hide
+3. evidence_locked – where proof waits
+4. finale_locked – where you make your accusation
 
-Password Flow:
-  1. matcha → unlock suspects
-  2. 6 → unlock evidence
-  3. our → unlock finale
+Each folder unlocks the next when you discover and enter the correct password.
+
+🧭 BASIC COMMANDS YOU’LL NEED
+
+| Purpose | Command | Example |
+|----------|----------|----------|
+| List files | ls | ls |
+| Read a file | cat filename.txt | cat report.txt |
+| Move into a folder | cd foldername | cd crime_scene |
+| Go up one level | cd .. | |
+| Return home | cd ~ | |
+| See where you are | pwd | |
+| Create or edit a small file | echo "text" > file.txt | |
+| Run a script | bash scriptname.sh | |
+
+💡 Pro tip: Files or folders starting with a dot (.) are hidden. Use ls -a to reveal them.
+
+🚦 HOW TO PLAY
+
+1. Start here:
+   cd ~/joel_murder_mystery_beginner/homes/detective
+   cat notes.txt
+
+2. Investigate the crime scene to find your first clue.
+
+3. Unlock new folders by:
+   - Opening the relevant password.txt file
+   - Typing your guessed password
+   - Running the provided unlock script
+
+4. Keep notes. Details matter — names, objects, and phrases might become passwords later.
+
+5. In the finale, create a file named culprit.txt containing your final guess, then run:
+   bash reveal.sh
+
+🧩 TROUBLESHOOTING TIPS
+- If a script won’t run, make sure you’re in the right folder (use pwd).
+- Use cat to re-read clues anytime.
+- Use ls -a if you think something’s missing — hidden files exist!
+- If a folder doesn’t unlock, check for typos or spaces in your password.
+
+🎓 OBJECTIVES
+By the end, you’ll have practiced:
+- Navigating directories
+- Reading and editing text files
+- Running shell scripts
+- Discovering hidden files
+- Thinking critically like a digital detective 🕵️‍♀️
