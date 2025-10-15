@@ -32,6 +32,8 @@ Each folder unlocks the next when you discover and enter the correct password.
 
 1. Start here:
    cd ~/ColorStack_Terminal_Adventure/homes/detective
+   cd homes.txt
+   cd detective
    cat notes.txt
 
 2. Investigate the crime scene to find your first clue.
