@@ -1,2 +1,0 @@
-Welcome, Detective! Read the crime scene files to find your first password.
-Then write it into suspects_locked/password.txt and run unlock.sh (either from crime_scene or from inside suspects_locked).
