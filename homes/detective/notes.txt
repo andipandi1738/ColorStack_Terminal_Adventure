@@ -1,3 +1,0 @@
-Welcome, Detective! This edition has suspects and evidence pre-unlocked for teaching/demo.
-Explore freely, then when you're ready, unlock the finale to run the reveal.
-Commands: ls, cd, cat, echo, bash
