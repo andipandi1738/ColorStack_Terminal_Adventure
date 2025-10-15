@@ -1,0 +1,7 @@
+Welcome, Detective!
+
+1) Visit the crime scene and read the files.
+2) Put your password guess into the appropriate password.txt.
+3) Run the unlock.sh inside the folder that mentions it.
+
+Basic commands: ls, cd, cd .., cd ~, cat, echo, bash
