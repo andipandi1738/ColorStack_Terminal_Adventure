@@ -1,9 +1,9 @@
-🕵️‍♀️ Terminal Justice: RIP Joel
+🧠 ColorStack Terminal Adventure
 A beginner Linux adventure for detectives-in-training.
 
 🎯 YOUR MISSION
-A mysterious “accident” occurred in the EEB lab. Your task is to use your terminal skills to explore folders,
-read files, uncover clues, and find out what really happened.
+Something strange happened in the EEB lab. Use your terminal skills to explore folders,
+read files, uncover clues, and discover what really happened.
 
 You’ll move through four folders:
 1. crime_scene – where it all began
@@ -31,8 +31,7 @@ Each folder unlocks the next when you discover and enter the correct password.
 🚦 HOW TO PLAY
 
 1. Start here:
-   git clone <copy_paste_from_https>
-   cd ColorStack_Terminal_Adventure
+   cd ~/ColorStack_Terminal_Adventure/homes/detective
    cat notes.txt
 
 2. Investigate the crime scene to find your first clue.
