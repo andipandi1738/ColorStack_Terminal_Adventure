@@ -1,8 +1,0 @@
-Welcome, Detective! Read the crime scene files to find your first password.
-Then write it into suspects_locked/password.txt and run an unlock script.
-
-Try both ways:
-  - From crime_scene: bash unlock.sh
-  - From inside suspects_locked: bash unlock.sh
-
-Repeat for evidence and finale.
