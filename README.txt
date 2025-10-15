@@ -38,6 +38,7 @@ CHECKPOINT 1:
 
 CHECKPOINT 2:
 Investigate the crime scene to find your first clue.
+Use the password hint to unlock the suspect files...
 
 CHECKPOINT 3:
 Unlock new folders by:
