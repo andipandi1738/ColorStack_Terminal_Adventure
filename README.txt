@@ -31,7 +31,8 @@ Each folder unlocks the next when you discover and enter the correct password.
 🚦 HOW TO PLAY
 
 1. Start here:
-   cd ~/ColorStack_Terminal_Adventure
+   git clone <copy_paste_from_https>
+   cd ColorStack_Terminal_Adventure
    cat notes.txt
 
 2. Investigate the crime scene to find your first clue.
