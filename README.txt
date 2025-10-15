@@ -30,23 +30,26 @@ Each folder unlocks the next when you discover and enter the correct password.
 
 🚦 HOW TO PLAY
 
-1. Start here:
+CHECKPOINT 1:
    cd ~/ColorStack_Terminal_Adventure/homes/detective
    cd homes.txt
    cd detective
    cat notes.txt
 
-2. Investigate the crime scene to find your first clue.
+CHECKPOINT 2:
+Investigate the crime scene to find your first clue.
 
-3. Unlock new folders by:
+CHECKPOINT 3:
+Unlock new folders by:
    - Opening the relevant password.txt file
    - Typing your guessed password
    - Running the provided unlock script
 
-4. Keep notes. Details matter — names, objects, and phrases might become passwords later.
+CHECKPOINT 4:
+Keep notes. Details matter — names, objects, and phrases might become passwords later.
 
-5. In the finale, create a file named culprit.txt containing your final guess, then run:
-   bash reveal.sh
+In the finale, create a file named culprit.txt containing your final guess, then run:
+bash reveal.sh
 
 🧩 TROUBLESHOOTING TIPS
 - If a script won’t run, make sure you’re in the right folder (use pwd).
