@@ -6,7 +6,7 @@ This is ideal for instructors who want students to practice navigation & clue-re
 without the incremental password puzzles.
 
 Start:
-  cd  ColorStack_Terminal_Adventure_FINALONLY/homes/detective
+  cd  ColorStack_Terminal_Adventure
   cd homes
   cd detective
   cat notes.txt
