@@ -1,0 +1,6 @@
+Welcome, Detective!
+
+Use ls and cat to explore the crime scene for your first password.
+Then write your guess into suspects_locked/password.txt and run the unlock script in crime_scene.
+
+Commands: ls, ls -a, cd, cd .., cd ~, cat, echo, bash
